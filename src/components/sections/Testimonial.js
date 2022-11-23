@@ -79,11 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — She was looking as red as a tomato looks because of heat. It
-was summer season. She was looking so beautiful from the
-front of the class. I wanted to stand there and look at her for
-the whole day. She blushed as I asked her name. Her gentle voice just went through my heart
-and melted it .
+                    — To take this course, thou shalt not regret it! To study computer science, is to study the very best of minds. The challenge of learning to code doth push one to new levels of mental fortitude. This course, 'tis a true joy. I found mine experience with the material to be most enriching and empowering!
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -100,15 +96,7 @@ and melted it .
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — George’s demeanor shattered my soul
-That was once a loving scandal 
-Therefore, the sea must have bit my ankle 
-The police’s purity had lost control 
-
-I’ve been a fool to believe 
-Even in the times that I grieve 
-For a tub that takes forever to fill up 
-Simply, pull the plug, and it's empty 
+                    — I never thought I'd say this, but taking a computer science course has been one of the best things I've ever done for my biceps. If you're looking for a way to bulk up, I would highly recommend taking this course, even if you're not a genius with big biceps like me.
 
                       </p>
                 </div>
