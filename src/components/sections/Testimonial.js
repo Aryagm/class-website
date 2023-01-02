@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Student testimonials',
-    paragraph: 'What our students have to say about our class 📝'
+    title: 'Customer Testimonials',
+    paragraph: 'What our customers have to say about our Services'
   };
 
   return (
@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Yo, Wassup My dawgs! Lemme tell you, this computer class is hella fine! Ms. Bailey is super duper dope and ahe knows how to keep us all engaged. I would definitely recommend this to any of my homeboys looking to get into the computer scene. 
+                    — Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Arjan Bains</span>
+                  <span className="testimonial-item-name text-color-high">John Doe</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Philosopher</a>
+                    <a href="#0">Customer #1</a>
                   </span>
                 </div>
               </div>
@@ -79,14 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — To take this course, thou shalt not regret it! To study computer science, is to study the very best of minds. The challenge of learning to code doth push one to new levels of mental fortitude. This course, 'tis a true joy. I found mine experience with the material to be most enriching and empowering!
+                    — Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Aditya Bhardwaj</span>
+                  <span className="testimonial-item-name text-color-high">John Doe</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Author and Poet</a>
+                    <a href="#0">Customer #2</a>
                   </span>
                 </div>
               </div>
@@ -96,21 +96,31 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — I never thought I'd say this, but taking a computer science course has been one of the best things I've ever done for my biceps. If you're looking for a way to bulk up, I would highly recommend taking this course, even if you're not a genius with big biceps like me.
+                    — Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Joel Sanjay</span>
+                  <span className="testimonial-item-name text-color-high">John Doe</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Big Biceps</a>
+                    <a href="#0">Customer #3</a>
                   </span>
                 </div>
               </div>
             </div>
 
+            
+            
           </div>
+          <br />
+          <br />
+          <hr />
+          <br />
+          <div id="form" >
+          <iframe width="1075" height="700" src="https://kgp5d70xviw.typeform.com/to/m7DbJxAw" frameborder="0" autofocus="false" href="form"></iframe>
+          </div>
+
         </div>
       </div>
     </section>

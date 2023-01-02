@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Our Class in Pictures 🖼️',
-    paragraph: 'A picture is worth thousand words, so here are some pictures of the experiences in our class! 📸'
+    title: 'Section with Pictures',
+    paragraph: 'Add some points about your business with pictures.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  We show unparalelled commitment
+                  Point #1
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Serious Dedication!
+                  Heading Number 1
                   </h3>
                 <p className="m-0">
-                  Students of our class like Kylen go to extremes to get their work done. He has not eaten for a 4 days because of his work towards the project, and he will not stop coding even if it means he has to eat without his hands. He is so immersed in his work that he even takes it to the bathroom! 🧻
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={"https://i.ibb.co/dM86VFQ/20221117-140445.jpg"}
+                  src={"https://blog.way.com/wp-content/uploads/2022/11/Black-car-names.jpg"}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -94,14 +94,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Promoting team-work
+                  Point #2
                   </div>
                 <h3 className="mt-0 mb-12">
-                  We work Together!
+                  Heading Number 2
                   </h3>
                 <p className="m-0">
-                  We can see Eshan and Neelesh having beautiful interactions with each other. They are working together to make sure that the project is completed on time. They are also having fun while doing so! 🤗
-                  </p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.                  </p>
               </div>
               <div className={
                 classNames(
@@ -110,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={"https://i.ibb.co/b5B7Xs9/20221117-140907.jpg"}
+                  src={"https://img.freepik.com/premium-photo/front-view-generic-brandless-moder-car_110488-502.jpg?w=360"}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -121,18 +120,15 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  incredible fashion sense
+                  Point #3
                   </div>
                 <h3 className="mt-0 mb-12">
-                  The Coolest Kids!
+                  Heading Number 3
                   </h3>
                 <p className="m-0">
-                  Because of amazing students like Arjan, our class is more than just code. We have the coolest personalities, fashion sense, and the best jokes in North Park 🤣
-                </p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.                </p>
                 <br/>
-                <p className="m-0">
-                Joke: I don’t like people who take drugs, for example: airport security. ✈️
-                </p>
+
               </div>
               <div className={
                 classNames(
@@ -141,7 +137,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={"https://i.ibb.co/kVnSWsK/IMG-20221122-214536-846.jpg"}
+                  src={"http://cdn.shopify.com/s/files/1/0107/8955/2187/articles/how-to-keep-a-black-car-clean-the-ultimate-car-care-guide-821592_1024x1024.jpg?v=1661225494"}
                   alt="Features split 03"
                   width={528}
                   height={396}
