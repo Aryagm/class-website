@@ -90,9 +90,9 @@ const FeaturesTiles = ({
 
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
-                  @royaltyautolab
-
+                  <h4 className="mt-0 mb-8 underline" >
+                   <u><a href='https://www.instagram.com/royaltyautolab/'>@royaltyautolab</a>
+                   </u>
                     </h4>
                 </div>
               </div>

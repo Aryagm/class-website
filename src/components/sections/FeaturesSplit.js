@@ -3,6 +3,10 @@ import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
+import video from '../../assets/video.mp4';
+import { Player } from 'video-react';
+import "../../../node_modules/video-react/dist/video-react.css";
+
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -59,6 +63,7 @@ const FeaturesSplit = ({
       {...props}
       className={outerClasses}
     >
+      <link rel="stylesheet" href="/css/video-react.css" />
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
@@ -136,6 +141,9 @@ const FeaturesSplit = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
+                {/* <Player playsInline fluid={false} width={300} style={{textAlign:"right"}}>
+                  <source src={video} />
+                </Player> */}
                 <Image
                   src={"http://cdn.shopify.com/s/files/1/0107/8955/2187/articles/how-to-keep-a-black-car-clean-the-ultimate-car-care-guide-821592_1024x1024.jpg?v=1661225494"}
                   alt="Features split 03"

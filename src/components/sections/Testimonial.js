@@ -2,6 +2,8 @@ import React from 'react';
 import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
+import video from '../../assets/video.mp4';
+
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -113,12 +115,13 @@ const Testimonial = ({
             
             
           </div>
+        
           <br />
           <br />
           <hr />
           <br />
           <div id="form" >
-          <iframe width="1075" height="700" src="https://kgp5d70xviw.typeform.com/to/m7DbJxAw" frameborder="0" autofocus="false" href="form"></iframe>
+          <iframe width="1075" height="700" src="https://heyform.net/f/caPYlVYr" frameborder="0" autofocus="false" href="form"></iframe>
           </div>
 
         </div>
